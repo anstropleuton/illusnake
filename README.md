@@ -1,12 +1,13 @@
-# Raylib Setup using Premake5
-This is a template system for building cross platform raylib projects using premake. It is focused on intermediate to advanced users.
-for a simple template, please see Raylib-QuickStart
+# Illusnake
+Illusnake is a remix of the raylib classic Snake game with illusionary patterns.
 
-  * https://github.com/raylib-extras/raylib-quickstart
+# Dependencies
+- raylib
 
-## Video Tutorial
-A video covering this process is here
-https://youtu.be/--gI9083QnU
+# Credits
+Thanks to Ian Eito, Albert Martos and Ramon Santamaria for developing the raylib classic Snake game.
+
+Below text is taken from game-premake.
 
 # Download this repository
 Download the game premake repository from 
